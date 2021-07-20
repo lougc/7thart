@@ -2,4 +2,4 @@
 
 ![7thArt](https://user-images.githubusercontent.com/87137074/125200075-925ddb00-e269-11eb-89f4-4f18f807b86b.jpg)
 
-Por: <a href="">Lourdes González</a>
+Por: <a href="https://lougc.github.io/portfolio/" target="_blank">Lourdes González</a>
